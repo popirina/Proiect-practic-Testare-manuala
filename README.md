@@ -7,3 +7,4 @@
 ## Functional specifications
 ##### in momentul de fata aici nu stiu ce ar trebui sa scriu 
 # 1 Testing section
+## 1.1 Test planning
