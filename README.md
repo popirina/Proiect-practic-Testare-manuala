@@ -8,3 +8,7 @@
 ##### in momentul de fata aici nu stiu ce ar trebui sa scriu 
 # 1 Testing section
 ## 1.1 Test planning
+##### The Test Plan is designed to describe all details of testing for the New Customer module from the Guru99 Bank application.
+##### The plan identifies the items to be tested,the features to be tested,the types of testing to be performed,the personnel responsible for testing,the resources and schedule required to complete testing,and the risks associated with the plan.
+### 1.1.1 Roles assigned to the project and persons allocated
+##### > - Project manager:
