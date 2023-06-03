@@ -34,4 +34,27 @@
 ### 1.1.6 Evaluating entry criteria
 ##### The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test Monitoring and Control
-##### Variou periodic reports were generated to reflect the current status of the testing process,in case of major problems control measures could be taken.The following status report was generated after 50% of the test cases were executed,on 1st of June 2023.
+##### Variou periodic reports were generated to reflect the current status of the testing process,in case of major problems control measures could be taken.The following status report was generated after 50% of the test cases were executed,on 1st of June 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
