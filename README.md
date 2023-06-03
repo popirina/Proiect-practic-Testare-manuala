@@ -1,6 +1,6 @@
 # Final project for ITF Manual Testing Course 
 ##### The scop of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice,using a live application.
-##### Aplication under test:
+##### Aplication under test: <https://demo.guru99.com/V4/manager/addcustomerpage.php>
 ##### Documentation:
 #### The final project will bw split into 2 sections:
 ##### Tools used:
