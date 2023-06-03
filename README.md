@@ -26,8 +26,8 @@
 ##### no detected major risk remained un-mitigated
 ##### exploratory regression testing must be performed on the New Customer module 
 ### 1.1.4 Test scope 
-##### Tests in scope:All the featured of New Customer module which were defined in software requirement specs need to be tested.
-##### Tests not in scope:performance testing,integrations of the new customer module with other modules,compatibility testing with multiple browsers
+##### - Tests in scope:All the featured of New Customer module which were defined in software requirement specs need to be tested.
+##### - Tests not in scope:performance testing,integrations of the new customer module with other modules,compatibility testing with multiple browsers
 ### 1.1.5 Risks detected 
 ##### Project risks:lack of experience of the QA team,insufficient people in the team,lack of time,
 ##### Product risks:validation constraints on the fields might be too restrictive to the end-user,lack of users,many competitors,
