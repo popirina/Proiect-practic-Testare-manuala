@@ -14,7 +14,7 @@
 #####  Project manager: Vlad Corcodel
 #####  Product owner:Cosmin Pop
 #####  Software developer:Gabriela Radulescu
-#####**QA Engineer**- Irina Pop
+##### **QA Engineer**- Irina Pop
 ### 1.1.2 Entry criteria defined
 ##### functional specifications are defined 
 ##### roles needed for the project are allocated 
