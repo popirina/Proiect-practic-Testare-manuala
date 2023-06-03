@@ -2,7 +2,7 @@
 ##### The scop of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice,using a live application.
 ##### Aplication under test: <https://demo.guru99.com/V4/manager/addcustomerpage.php>
 ##### Documentation: <https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit>
-#### The final project will bw split into 2 sections:
+#### The final project will be split into 2 sections:
 ##### Tools used:
 ## Functional specifications
 ##### in momentul de fata aici nu stiu ce ar trebui sa scriu,din cate am inteles acestea trebuie create in Jira pe care inca nu am studiat
