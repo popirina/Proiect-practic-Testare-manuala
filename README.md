@@ -5,7 +5,7 @@
 #### The final project will be split into 2 sections:
 ##### Tools used:
 ## Functional specifications
-##### in momentul de fata aici nu stiu ce ar trebui sa scriu,din cate am inteles acestea trebuie create in Jira pe care inca nu am studiat
+##### The below story was created in Jira and describes the functional specifications of the New customer module,for which the final project is performed upon
 # 1 Testing section
 ## 1.1 Test planning
 ##### The Test Plan is designed to describe all details of testing for the New Customer module from the Guru99 Bank application.
