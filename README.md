@@ -5,9 +5,9 @@
 #### The final project will be split into 2 sections:
 ##### Tools used:
 ## Functional specifications
-##### The below story was created in Jira and describes the functional specifications of the New customer module,for which the final project is performed upon
+##### The below story was created in Jira and describes the functional specifications of the New customer module,for which the final project is performed
+![Captură 1](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/63ed336d-ac78-49bd-8088-bf36f933f8f1)
 
-![image](https://github.com/![Captură 1](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/183b2b32-2c69-43eb-9f29-89f9f27ee72b)
 
 ![Captură 2](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/10fc9218-cee3-46bd-b5a9-55e4eae11743)
 # 1 Testing section
