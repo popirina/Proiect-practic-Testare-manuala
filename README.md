@@ -6,7 +6,9 @@
 ##### Tools used:
 ## Functional specifications
 ##### The below story was created in Jira and describes the functional specifications of the New customer module,for which the final project is performed upon
+
 ![image](https://github.com/![Captură 1](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/183b2b32-2c69-43eb-9f29-89f9f27ee72b)
+
 ![Captură 2](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/10fc9218-cee3-46bd-b5a9-55e4eae11743)
 # 1 Testing section
 ## 1.1 Test planning
