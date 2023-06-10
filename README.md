@@ -40,6 +40,13 @@
 ## 1.2 Test Monitoring and Control
 ##### Variou periodic reports were generated to reflect the current status of the testing process,in case of major problems control measures could be taken.The following status report was generated after 50% of the test cases were executed,on 1st of June 2023
   ![image](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/c951c630-ce4f-49ea-b2db-5c039372f9c3)
+## 1.3 Test Analysis
+##### The testing process will be executed based on the above requirements for the New customer module.The following test conditions were found:
+##### Enter data only for mandatory fields and check that the new customer is created
+##### Enter data for all available fields and check that the new customer is created
+##### Leave mandatory fields empty and check that the new customer cannot be created
+##### View new customer details and check they are correct
+##### Check all validation constrains for the fields 
 
 
 
