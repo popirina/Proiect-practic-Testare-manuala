@@ -6,6 +6,8 @@
 ##### Tools used:
 ## Functional specifications
 ##### The below story was created in Jira and describes the functional specifications of the New customer module,for which the final project is performed upon
+![image](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/35188237-b95e-4f8a-bda2-c16470208909)
+
 # 1 Testing section
 ## 1.1 Test planning
 ##### The Test Plan is designed to describe all details of testing for the New Customer module from the Guru99 Bank application.
