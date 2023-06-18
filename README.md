@@ -59,9 +59,13 @@
 ![image](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/ee0ec420-35c9-4353-b2f2-38e73565d82e)
 
 
-
-
-
+## 1.5 Test Implementation
+##### The following elements are needed to be ready before the test execution phase begins:
+##### Testing environment is up and running:
+https://demo.guru99.com/V4/manager/addcustomerpage.php
+##### Access to the testing environment is given
+##### Cycle summary was created
+##### Test cases were added to the cycle summary
 
 
 
