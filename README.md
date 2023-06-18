@@ -50,6 +50,7 @@
 ## 1.4 Test Design
 ##### Functional test cases were created in ZEPHYR SQUAD. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning, and use case testing.
 
+![image](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/d33c3cbf-1238-4924-bc6f-d4085e021e15)
 
 
 
