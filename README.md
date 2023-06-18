@@ -52,6 +52,7 @@
 
 ![image](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/d33c3cbf-1238-4924-bc6f-d4085e021e15)
 
+![image](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/91022ff5-58d6-43ce-bae7-358b795f196e)
 
 
 
