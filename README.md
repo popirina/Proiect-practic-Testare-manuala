@@ -67,7 +67,13 @@ https://demo.guru99.com/V4/manager/addcustomerpage.php
 ##### Cycle summary was created
 ##### Test cases were added to the cycle summary
 
+## 1.6 Test Execution
+##### Test cases are executed on the created test Cycle summary
 
+## 1.7 Test Completion
+##### As the Exit criteria were met and satisfied as mentioned in the appropriate section,this feature is suggested to 'Go Live' by the Testing team
+##### The traceability matrix was generated 
+##### A number of 20 test cases were planned for execution and all of them were executed 
 
 
 
