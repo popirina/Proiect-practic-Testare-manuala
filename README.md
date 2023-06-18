@@ -33,21 +33,22 @@
 ##### Tests in scope:All the featured of New Customer module which were defined in software requirement specs need to be tested.
 ##### Tests not in scope:performance testing,integrations of the new customer module with other modules,compatibility testing with multiple browsers
 ### 1.1.5 Risks detected 
-##### Project risks:lack of experience of the QA team,insufficient people in the team,lack of time,
-##### Product risks:validation constraints on the fields might be too restrictive to the end-user,lack of users,many competitors,
+##### Project risks: lack of experience of the QA team, insufficient people in the team, lack of time,
+##### Product risks: validation constraints on the fields might be too restrictive to the end-user, lack of users, many competitors,
 ### 1.1.6 Evaluating entry criteria
-##### The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+##### The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 ## 1.2 Test Monitoring and Control
-##### Variou periodic reports were generated to reflect the current status of the testing process,in case of major problems control measures could be taken.The following status report was generated after 50% of the test cases were executed,on 1st of June 2023
+##### Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 50% of the test cases were executed, on 1st of June 2023
   ![image](https://github.com/popirina/Proiect-practic-Testare-manuala/assets/135150134/c951c630-ce4f-49ea-b2db-5c039372f9c3)
 ## 1.3 Test Analysis
-##### The testing process will be executed based on the above requirements for the New customer module.The following test conditions were found:
+##### The testing process will be executed based on the above requirements for the New customer module. The following test conditions were found:
 ##### Enter data only for mandatory fields and check that the new customer is created
 ##### Enter data for all available fields and check that the new customer is created
 ##### Leave mandatory fields empty and check that the new customer cannot be created
 ##### View new customer details and check they are correct
-##### Check all validation constrains for the fields 
-
+##### Check all validation constraints for the fields 
+## 1.4 Test Design
+##### Functional test cases were created in ZEPHYR SQUAD. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning, and use case testing.
 
 
 
